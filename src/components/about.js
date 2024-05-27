@@ -48,7 +48,7 @@ function About() {
       <div className="section-container">
         <div className="picture_container hidden1">
           <img
-            src="/hello_world.png"
+            src="./hello_world.png"
             alt="Profile picture"
             className="about-pic"
           />
