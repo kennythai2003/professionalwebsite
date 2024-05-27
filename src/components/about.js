@@ -48,7 +48,7 @@ function About() {
       <div className="section-container">
         <div className="picture_container hidden1">
           <img
-            src="./hello_world.png"
+            src="/professionalwebsite/hello_world.png"
             alt="Profile picture"
             className="about-pic"
           />
@@ -72,7 +72,7 @@ function About() {
               <h1 className="quickpad">Work Experience</h1>
               <div className="detaildisplay">
                 <img
-                  src="/ucrlogo.png"
+                  src="/professionalwebsite/ucrlogo.png"
                   alt="Experience icon"
                   className="school"
                 />
@@ -91,7 +91,7 @@ function About() {
               </div>
               <div className="detaildisplay">
                 <img
-                  src="/ucrlogo.png"
+                  src="/professionalwebsite/ucrlogo.png"
                   alt="Experience icon"
                   className="school"
                 />
@@ -112,7 +112,11 @@ function About() {
             <div className="flexboxes_content hidden1">
               <h1 className="quickpad">Education</h1>
               <div className="detaildisplay">
-                <img src="/ucr.png" alt="Experience icon" className="school" />
+                <img
+                  src="/professionalwebsite/ucr.png"
+                  alt="Experience icon"
+                  className="school"
+                />
                 <div className="resumedisplay">
                   <p>
                     <strong>School:</strong> University of California, Riverside
@@ -130,7 +134,7 @@ function About() {
               </div>
               <div className="detaildisplay">
                 <img
-                  src="/ggusd.png"
+                  src="/professionalwebsite/ggusd.png"
                   alt="Experience icon"
                   className="school"
                 />
@@ -154,7 +158,7 @@ function About() {
         </div>
       </div>
       <img
-        src="/arrow.png"
+        src="/professionalwebsite/arrow.png"
         alt="Arrow icon"
         className="icon arrow"
         onclick="location.href='./#experience'"

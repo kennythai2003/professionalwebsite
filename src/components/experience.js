@@ -4,79 +4,79 @@ import Language from "./Language";
 function Experience() {
   const data = [
     {
-      image: "python.png",
+      image: "professionalwebsite/python.png",
       alttag: "python icon",
       language: "Python",
       category: "Programming",
     },
     {
-      image: "cpp.png",
+      image: "professionalwebsite/cpp.png",
       alttag: "cpp icon",
       language: "C++",
       category: "Programming",
     },
     {
-      image: "git.png",
+      image: "professionalwebsite/git.png",
       alttag: "git icon",
       language: "Git",
       category: "Version Control",
     },
     {
-      image: "html.png",
+      image: "professionalwebsite/html.png",
       alttag: "html icon",
       language: "HTML",
       category: "Frontend",
     },
     {
-      image: "css.png",
+      image: "professionalwebsite/css.png",
       alttag: "css icon",
       language: "CSS",
       category: "Frontend",
     },
     {
-      image: "javascript.png",
+      image: "professionalwebsite/javascript.png",
       alttag: "javascript icon",
       language: "JavaScript",
       category: "Frontend",
     },
     {
-      image: "react.png",
+      image: "professionalwebsite/react.png",
       alttag: "react icon",
       language: "React",
       category: "Framework",
     },
     {
-      image: "bootstrap.png",
+      image: "professionalwebsite/bootstrap.png",
       alttag: "bootstrap icon",
       language: "Bootstrap",
       category: "Framework",
     },
     {
-      image: "nodejs.png",
+      image: "professionalwebsite/nodejs.png",
       alttag: "nodejs icon",
       language: "Node.js",
       category: "Backend",
     },
     {
-      image: "Express.png",
+      image: "professionalwebsite/Express.png",
       alttag: "express icon",
       language: "Express",
       category: "Framework",
     },
     {
-      image: "mongodb.png",
+      image: "professionalwebsite/mongodb.png",
       alttag: "mongodb icon",
       language: "mongoDB",
       category: "Databases",
     },
     {
-      image: "postgresql.png",
+      image: "professionalwebsite/postgresql.png",
       alttag: "postgresql icon",
       language: "PostgreSQL",
       category: "Databases",
     },
     {
-      image: "docker.png",
+      image: "professionalwebsite/docker.png",
       alttag: "docker icon",
       language: "Docker",
       category: "Virtualization",
@@ -84,17 +84,26 @@ function Experience() {
   ];
 
   const coursework = [
-    { image: "dsa.png", language: "Data Structures and Algorithms" },
-    { image: "webdev.png", language: "Web Development" },
-    { image: "ai.png", language: "Artificial Intelligence" },
-    { image: "ml.png", language: "Machine Learning" },
-    { image: "embedded.png", language: "Embedded Systems" },
-    { image: "compiler.png", language: "Compiler Design" },
-    { image: "comparch.png", language: "Computer Architecture" },
-    { image: "os.png", language: "Operating Systems" },
-    { image: "logic.png", language: "Logic Design" },
-    { image: "sc.png", language: "Software Construction" },
-    { image: "discrete.png", language: "Discrete Math" },
+    {
+      image: "professionalwebsite/dsa.png",
+      language: "Data Structures and Algorithms",
+    },
+    { image: "professionalwebsite/webdev.png", language: "Web Development" },
+    {
+      image: "professionalwebsite/ai.png",
+      language: "Artificial Intelligence",
+    },
+    { image: "professionalwebsite/ml.png", language: "Machine Learning" },
+    { image: "professionalwebsite/embedded.png", language: "Embedded Systems" },
+    { image: "professionalwebsite/compiler.png", language: "Compiler Design" },
+    {
+      image: "professionalwebsite/comparch.png",
+      language: "Computer Architecture",
+    },
+    { image: "professionalwebsite/os.png", language: "Operating Systems" },
+    { image: "professionalwebsite/logic.png", language: "Logic Design" },
+    { image: "professionalwebsite/sc.png", language: "Software Construction" },
+    { image: "professionalwebsite/discrete.png", language: "Discrete Math" },
   ];
 
   return (

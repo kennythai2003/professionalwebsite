@@ -17,7 +17,7 @@ function Profile() {
     <section id="profile" className="hidden">
       <div className="picture_container">
         <img
-          src="/profilepic.png"
+          src="/professionalwebsite/profilepic.png"
           alt="kenny thai profile picture"
           className="profilepic"
         />
@@ -33,13 +33,13 @@ function Profile() {
         </div>
         <div id="socials-container">
           <img
-            src="/linkedin.png"
+            src="/professionalwebsite/linkedin.png"
             alt="My LinkedIn profile"
             className="icon"
             onClick={handleLinkedInClick}
           />
           <img
-            src="/github.png"
+            src="/professionalwebsite/github.png"
             alt="My Github profile"
             className="icon"
             onClick={handleGitHubClick}

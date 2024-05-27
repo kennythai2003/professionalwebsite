@@ -38,17 +38,57 @@ function Parallax() {
 
   return (
     <section className="parallax">
-      <img src="/hill1.png" id="hill1" ref={hill1Ref} alt="hill1" />
-      <img src="/hill2.png" id="hill2" ref={hill2Ref} alt="hill2" />
-      <img src="/hill3.png" id="hill3" ref={hill3Ref} alt="hill3" />
-      <img src="/hill4.png" id="hill4" ref={hill4Ref} alt="hill4" />
-      <img src="/hill5.png" id="hill5" ref={hill5Ref} alt="hill5" />
-      <img src="/tree.png" id="tree" ref={treeRef} alt="tree1" />
+      <img
+        src="/professionalwebsite/hill1.png"
+        id="hill1"
+        ref={hill1Ref}
+        alt="hill1"
+      />
+      <img
+        src="/professionalwebsite/hill2.png"
+        id="hill2"
+        ref={hill2Ref}
+        alt="hill2"
+      />
+      <img
+        src="/professionalwebsite/hill3.png"
+        id="hill3"
+        ref={hill3Ref}
+        alt="hill3"
+      />
+      <img
+        src="/professionalwebsite/hill4.png"
+        id="hill4"
+        ref={hill4Ref}
+        alt="hill4"
+      />
+      <img
+        src="/professionalwebsite/hill5.png"
+        id="hill5"
+        ref={hill5Ref}
+        alt="hill5"
+      />
+      <img
+        src="/professionalwebsite/tree.png"
+        id="tree"
+        ref={treeRef}
+        alt="tree1"
+      />
       <h2 id="text" ref={textRef}>
         Hello World!
       </h2>
-      <img src="/leaf.png" id="leaf" ref={leafRef} alt="leaf" />
-      <img src="/plant.png" id="plant" ref={plantRef} alt="plant" />
+      <img
+        src="/professionalwebsite/leaf.png"
+        id="leaf"
+        ref={leafRef}
+        alt="leaf"
+      />
+      <img
+        src="/professionalwebsite/plant.png"
+        id="plant"
+        ref={plantRef}
+        alt="plant"
+      />
     </section>
   );
 }

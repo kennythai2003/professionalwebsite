@@ -3,7 +3,11 @@ import "../styles/navigation.css";
 function Navigation() {
   return (
     <header>
-      <img src="/signature.png" class="signature" alt="logo" />
+      <img
+        src="/professionalwebsite/signature.png"
+        class="signature"
+        alt="logo"
+      />
       <nav className="navigation">
         <a href="#" class="active">
           Home

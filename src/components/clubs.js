@@ -4,31 +4,31 @@ import Club from "./club";
 function Clubs() {
   const data = [
     {
-      image: "acm.png",
+      image: "professionalwebsite/acm.png",
       alttag: "ACM Icon",
       clubName: "Association of Computing Machinery",
       date: "Sept. 2021 - Present",
     },
     {
-      image: "leetcode.png",
+      image: "professionalwebsite/leetcode.png",
       alttag: "LeetCode Icon",
       clubName: "Competitive Coding Club",
       date: "Sept. 2022 - Present",
     },
     {
-      image: "redcross.png",
+      image: "professionalwebsite/redcross.png",
       alttag: "Red Cross Icon",
       clubName: "Red Cross",
       date: "Aug. 2017 - Present",
     },
     {
-      image: "thetatau.png",
+      image: "professionalwebsite/thetatau.png",
       alttag: "Theta Tau Icon",
       clubName: "Theta Tau",
       date: "May 2023 - Present",
     },
     {
-      image: "mentorcollective.png",
+      image: "professionalwebsite/mentorcollective.png",
       alttag: "Mentor Collective Icon",
       clubName: "Mentor Collective",
       date: "Sept. 2022 - Present",

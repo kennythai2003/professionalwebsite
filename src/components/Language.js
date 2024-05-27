@@ -4,7 +4,7 @@ const Language = ({ image, alttag, language, category }) => {
   return (
     <article>
       <img
-        src={`/${image ? image : "checkmark.png"}`}
+        src={`/${image ? image : "professionalwebsite/checkmark.png"}`}
         alt={alttag ? alttag : "checkmark icon"}
         className="icon"
       />

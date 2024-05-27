@@ -9,7 +9,7 @@ const Project = ({ image, alttag, projectName, link }) => {
       <h2 className="experience-sub-title project-title">{projectName}</h2>
       <div className="contact-info-container">
         <img
-          src="/github.png"
+          src="/professionalwebsite/github.png"
           alt="GitHub icon"
           className="icon contact-icon"
         />

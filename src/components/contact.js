@@ -8,7 +8,7 @@ function Contact() {
       <div className="contact-info-upper-container">
         <div className="contact-info-container">
           <img
-            src="/email.png"
+            src="/professionalwebsite/email.png"
             alt="Email icon"
             className="icon contact-icon email-icon"
           />
@@ -20,7 +20,7 @@ function Contact() {
         </div>
         <div className="contact-info-container">
           <img
-            src="/linkedin.png"
+            src="/professionalwebsite/linkedin.png"
             alt="LinkedIn icon"
             className="icon contact-icon"
           />
@@ -36,7 +36,7 @@ function Contact() {
         </div>
         <div className="contact-info-container">
           <img
-            src="/github.png"
+            src="/professionalwebsite/github.png"
             alt="GitHub icon"
             className="icon contact-icon"
           />

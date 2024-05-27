@@ -4,19 +4,19 @@ import Project from "./project";
 function Projects() {
   const data = [
     {
-      image: "hackgpt.png",
+      image: "professionalwebsite/hackgpt.png",
       alttag: "hackGPT",
       projectName: "hackGPT",
       link: "https://github.com/kennythai2003/hackathon/tree/main/hackGPT",
     },
     {
-      image: "pomodiscordo.png",
+      image: "professionalwebsite/pomodiscordo.png",
       alttag: "Pomodiscordo",
       projectName: "Pomodiscordo",
       link: "https://github.com/kennythai2003/PomoDiscordo_Bot",
     },
     {
-      image: "planit.png",
+      image: "professionalwebsite/planit.png",
       alttag: "PlanIt",
       projectName: "PlanIt",
       link: "https://github.com/kennythai2003/PlanIt",
