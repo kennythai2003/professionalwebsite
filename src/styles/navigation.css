@@ -1,0 +1,35 @@
+header {
+  position: center;
+  top: 0;
+  background-color: #f9f9f9;
+  left: 0;
+  width: 100%;
+  padding: 30px 100px;
+  padding-bottom: 2px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  z-index: 100;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: #826d58;
+  padding: 6px 15px;
+  border-radius: 20px;
+  margin: 0 10px;
+  font-weight: 600;
+}
+
+.navigation a:hover,
+.navigation a.active {
+  background: #826d58;
+  color: #fff;
+}
+
+.signature {
+  height: 20%;
+  width: 20%;
+  margin-right: 100px;
+  margin-bottom: 1px;
+}

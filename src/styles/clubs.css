@@ -1,0 +1,129 @@
+#clubs {
+  position: relative;
+  background: linear-gradient(to bottom, #826d58, #e7dac5);
+  padding-top: 8.5rem;
+  /* padding-bottom: 4rem; */
+}
+
+.about_me_text {
+  padding: 1.5rem;
+  flex: 1;
+  /* background: white; */
+  background-color: #efdfcb;
+  border-radius: 1rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+  text-align: center;
+}
+
+.flexbox_containers {
+  gap: 2rem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.flexboxes_containers {
+  justify-content: center;
+  flex-direction: column;
+}
+
+.flexbox_containers,
+.flexboxes_containers {
+  display: flex;
+}
+
+.about-pic {
+  border-radius: 2rem;
+}
+
+.arrow {
+  position: absolute;
+  right: -5rem;
+  bottom: 2.5rem;
+}
+
+.flexboxes_content {
+  padding: 1.5rem;
+  flex: 1;
+  background-color: #efdfcb;
+  border-radius: 2rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  text-align: center;
+}
+
+.section-container {
+  /* margin-top: 5px; */
+  /* padding-top: 2px; */
+  gap: 4rem;
+  height: 80%;
+}
+
+.picture_container {
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+  /* border-radius: 50%; */
+}
+
+.small_text {
+  text-align: center;
+  color: #f9f9f9;
+}
+
+.title {
+  color: #f9f9f9;
+  font-size: 3rem;
+  text-align: center;
+}
+.section-container {
+  display: flex;
+}
+
+.picture_container {
+  height: 400px;
+  width: 400px;
+  margin: auto 0;
+  /* border-radius: 50%; */
+}
+
+.about-pic {
+  border-radius: 2rem;
+}
+
+.about_me_text {
+  padding: 1.5rem;
+  flex: 1;
+  /* background: white; */
+  background-color: #efdfcb;
+  border-radius: 1rem;
+  border: rgb(53, 53, 53) 0.1rem solid;
+  border-color: rgb(163, 163, 163);
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+  text-align: left;
+}
+
+.hidden {
+  opacity: 0;
+  /* transition: all 1s; */
+  /* filter: blur(3px);
+      transform: translateX(-25%); */
+  transition: all 1.5s;
+}
+.show {
+  opacity: 1;
+  /* filter: blur(0);
+      transform: translateX(0); */
+}
+
+.p_icon {
+  height: 150px;
+  width: 150px;
+}
+
+.date {
+  text-align: center;
+}

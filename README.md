@@ -1,3 +1,12 @@
+# References
+
+parallax: https://www.youtube.com/watch?v=kmM6mqvnxcs&t=12s&ab_channel=Codehal  
+website layout: https://www.youtube.com/watch?v=ldwlOzRvYOU&t=6222s&ab_channel=HowtoBecomeaDeveloper
+
+# Other Notes
+
+I was unable to do the media queries, as it kept breaking my application, so this site will work best in full screen.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
